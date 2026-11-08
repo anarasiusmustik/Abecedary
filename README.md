@@ -179,4 +179,4 @@ This repository serves as the official landing page for Abecedary. The software 
 **Get the most recent version of Abecedary today!**
 
 ---
-**Last updated:** 2026-11-07 22:28:10 UTC
+**Last updated:** 2026-11-08 02:00:07 UTC
